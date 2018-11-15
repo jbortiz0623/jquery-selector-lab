@@ -208,6 +208,9 @@ button {
 
 /* Your CSS goes here!
    ================================================================ */
-.fun {
+
   /* Add your styles here! background-color and color for fonts (and other styles if you'd like!) */
-}
+  .fun {
+    color: #f78fa7;
+    background-color: #05f2db;
+  }
